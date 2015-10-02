@@ -1,6 +1,6 @@
 # py-fulcrum-tools
 
-Tools for interacting with the fulcrum app API using python.
+Tools for interacting with the fulcrum app API using python. See http://www.fulcrumapp.com/developers/api/ for more info on the Fulcrum API.
 
 ## Tools
 
