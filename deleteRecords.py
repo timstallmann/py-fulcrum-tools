@@ -2,7 +2,7 @@ import requests
 import json
 import time
 import calendar
-from deleteRecords_config import *
+from fulcrum_config import *
 
 
 def getRecords(formId, userId, timestamp):
