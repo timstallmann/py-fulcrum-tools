@@ -1,5 +1,3 @@
-__author__ = 'tim'
-
 apiToken = "YOUR_API_TOKEN"
 urlBase = 'https://api.fulcrumapp.com/api/v2/'
 
